@@ -1,3 +1,11 @@
+We learnt how to launch interactive shell and work in Terminal in [notebooks.ai] 
+
+
+
+
+
+
+
 # Basic Syntax
 
 ## Heading - # H1, ## H2, ### H3
