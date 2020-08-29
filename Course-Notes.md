@@ -1,10 +1,6 @@
-We learnt how to launch interactive shell and work in Terminal in [https://notebooks.ai/] 
-
-
-
-
-
-
+# We learnt how to launch interactive shell and work in Terminal, create a .py, .ipynb and .md files in [https://notebooks.ai/] 
+# We also created a github account and created a test repository.
+# Below are the few basic syntax used while working on .md files
 
 # Basic Syntax
 
