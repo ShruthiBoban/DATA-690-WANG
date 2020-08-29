@@ -1,4 +1,4 @@
-We learnt how to launch interactive shell and work in Terminal in [notebooks.ai] 
+We learnt how to launch interactive shell and work in Terminal in [https://notebooks.ai/] 
 
 
 
