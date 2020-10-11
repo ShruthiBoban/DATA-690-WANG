@@ -12,6 +12,7 @@ This issue is important as the increase in the usage of renewable energy leads i
 
 ## Where do you get the data to help answer your questions?
 Data Source : https://opendata.maryland.gov/Energy-and-Environment/Historic-Clean-Energy-Grant-Awards/4jem-ugpy/data
+
 Data Source discovered from : https://umbc.app.box.com/notes/375877568053?s=inwbinsctcmedcknp7h8r3tm1das5vs9 . I was trying to check on data from different places like chicago, new york and maryland which finally led me to the link (https://opendata.maryland.gov/) thus ended up finding the data source.
 
 Number of Rows in the dataset : 12988 
