@@ -7,8 +7,8 @@ Renewable energy is collected from renewable resources which can be used repeate
 This issue is important as the increase in the usage of renewable energy leads into less global warming and improves public health and by these awards, the increase in renewable energies were possible.
 
 ## What questions do you have in mind and wouyld like to answer?
-I have few hypothesis in mind which are: 1. I think that GeoThermal energy has got highest project cost over the years as wind and solar eneries are cheaper than any other form of energy
-2. I think that the award amount increases yearly becuase if people are encouraged to re-use the renewable energy by providing award amount, then it might lead to less global warming being a good cause for the public
+1. Which renewable energy has got highest project cost over the years?
+2. Whether the Award Amount increases or decreases every year?
 
 ## Where do you get the data to help answer your questions?
 Data Source : https://opendata.maryland.gov/Energy-and-Environment/Historic-Clean-Energy-Grant-Awards/4jem-ugpy/data
@@ -21,8 +21,9 @@ Data Size : 3.27MB
 ## What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units do you expect to analyze?
 I  am planning to analyze Total Project Cost, Award Date, Technology, Award Amount. I might roughly use 4 to 5 units for analysing.
 
-## What variables/measures do you plan to use in your analysis?
-
+## What variables/measures do you plan to use in your analysis? 
+To find out which renewable energy has got the highest project cost, I need to have the energies (Technology unit) and the total project cost.
+To find out if the Award Amount increases or decreases every year. I need to have Year and Award Amount.
 
 ## What kinds of techniques do you you plan to use (for example, summary statistics, scatter plot, bar chart, chi-squared test)?
 I plan to use summary statistics, histograms, bar chart. I would also like to improvise my analysis when I am actually working on it.
