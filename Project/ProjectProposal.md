@@ -6,9 +6,10 @@ Renewable energy is collected from renewable resources which can be used repeate
 ## Why is this issue important to you and/or to others?
 This issue is important as the increase in the usage of renewable energy leads into less global warming and improves public health and by these awards, the increase in renewable energies were possible.
 
-## What questions do you have in mind and wouyld like to answer?
-1. Which renewable energy has got highest project cost over the years?
+## What questions do you have in mind and would like to answer?
+1. Which renewable energy project has been implemented more over the years? 
 2. Whether the Award Amount increases or decreases every year?
+3. Is there a particular areas that have more projects (# of project, and/or total spending)?
 
 ## Where do you get the data to help answer your questions?
 Data Source : https://opendata.maryland.gov/Energy-and-Environment/Historic-Clean-Energy-Grant-Awards/4jem-ugpy/data
